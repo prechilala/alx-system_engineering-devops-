@@ -7,3 +7,4 @@ Create a script that lists all local variables and environment variables, and fu
 Create a script that creates a new local variable.
 Create a script that creates a new global variable.
 Every addition to true knowledge is an addition to human power
+Write a script that prints the result of POWER divided by DIVIDE, followed by a new line.
